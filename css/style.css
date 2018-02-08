@@ -1,0 +1,113 @@
+header{
+    height:450px;
+    color: white;
+    background-image: url("../img/bg.jpg");
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+    
+}
+
+.navigation {
+    background-color: white;
+    height: 40px;
+    opacity: 0.9;
+    align-content:  center; 
+    position: relative;
+    top: 30px;
+}  
+    
+
+.firstimage{
+    background-color: white;
+        padding: 10px;
+        height: 40%;
+        margin: 20px;
+        position: relative;
+        top: 20px;
+       
+}
+header h1{
+    font-size: 35px;  
+    margin: 10px;
+    position: relative;
+    top:40px;
+    }
+
+header > h5{
+    position:relative;
+    top: 25px;
+    opacity:0.8;
+}
+
+.container{
+margin: 160px;
+}
+.maintxt {
+width: 1000px;
+margin:auto;
+}
+
+.welcome{
+    text-align: center;
+    line-height: 0.7;
+    
+}
+
+.welcome > p:first-child{
+    font-size: 20px;
+    opacity:0.8
+}
+
+.welcome > p:nth-child(2){
+    font-size: 50px;
+}
+.welcome > p:nth-child(3){
+    font-size: 20px;
+    opacity:0.8;  
+}
+
+.sectionone{
+    margin:60px;
+}
+
+.bodyimage{
+    float: left;
+    height: 80%;
+    margin-right: 20px;
+}
+
+.maintxt{
+    width:1000px;
+    margin: 0 auto;
+   
+}
+
+div > h3{
+    text-align: center;
+}
+
+hr{
+    width: 200px;
+}
+
+footer{
+    text-align: center;
+}
+
+nav > a{
+padding: 15px;
+text-decoration:none;
+position: relative;
+top: 10px;
+color: grey;
+}
+   
+nav a:hover{
+color:black;
+background-image: white;
+}
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
